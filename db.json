@@ -1,5 +1,5 @@
 {
-	"auraNegativaPage": {
+	"tobiaBaserPage": {
 		"coverSection": {
 			"title": "Tobia Baser",
 			"subtitle": "Blackwork",
@@ -20,7 +20,7 @@
 					"id": 1,
 					"addClass": "",
 					"image": {
-						"url": "",
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709125658/inkaeTattooVenice/home/pbrgfukyp9zbovqwseoj.webp",
 						"alt": "Tobia Baser mentre lavora",
 						"height": "270",
 						"width": "425",
@@ -52,7 +52,7 @@
 			"images": [
 				{
 					"id": 1,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122849/inkaeTattooVenice/tobia-baser/tattoos/ckktrdumuaatbsolgyk4.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -60,7 +60,7 @@
 				},
 				{
 					"id": 2,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122849/inkaeTattooVenice/tobia-baser/tattoos/pc1v0q8ruh5qea7sxcwg.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -68,7 +68,7 @@
 				},
 				{
 					"id": 3,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/ikdxtsrvnzrcz5xu0f7v.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -76,7 +76,7 @@
 				},
 				{
 					"id": 4,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/ywtxgimomanqycgu3p59.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -84,7 +84,7 @@
 				},
 				{
 					"id": 5,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/e86itws6ne8w1ropqci8.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -92,7 +92,7 @@
 				},
 				{
 					"id": 6,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/qhwhxck4ypvzrkotpmgu.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -100,7 +100,7 @@
 				},
 				{
 					"id": 7,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/jotoaurb97a5nd2eea5d.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
@@ -108,27 +108,11 @@
 				},
 				{
 					"id": 8,
-					"url": "",
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709122848/inkaeTattooVenice/tobia-baser/tattoos/z8rft0cemgadetanye2f.webp",
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
 					"title": "Testo che descrive il tatuaggio 8"
-				},
-				{
-					"id": 9,
-					"url": "",
-					"height": "700",
-					"width": "525",
-					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 9"
-				},
-				{
-					"id": 10,
-					"url": "",
-					"height": "700",
-					"width": "525",
-					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 10"
 				}
 			]
 		},
