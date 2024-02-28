@@ -1,0 +1,223 @@
+{
+	"auraNegativaPage": {
+		"coverSection": {
+			"title": "Tobia Baser",
+			"subtitle": "Blackwork",
+			"link": null,
+			"image": {
+				"url": "",
+				"alt": "",
+				"height": "",
+				"width": "",
+				"title": ""
+			}
+		},
+		"biographySection": {
+			"title": null,
+			"image": null,
+			"mediaText": [
+				{
+					"id": 1,
+					"addClass": "",
+					"image": {
+						"url": "",
+						"alt": "Tobia Baser mentre lavora",
+						"height": "270",
+						"width": "425",
+						"title": null
+					},
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Tobia Baser si approccia sin da piccolo al disegno e al fumetto, copiando le tavole Disney dei piu grandi maestri come Cavazzano, De Vita e altri."
+						},
+						{
+							"id": 2,
+							"text": "Frequenta il liceo artistico di Venezia e successivamente si diploma all’Accademia di belle Arti di Venezia."
+						},
+						{
+							"id": 3,
+							"text": "Noto esponente dei graffiti e delle street art italiana, si avvicina al mondo dei tattoo attirato dai colori brillanti e dalle linee marcate del tatuaggio old school americano e giapponese."
+						},
+						{
+							"id": 4,
+							"text": "Esegue i seguenti stili: tradizionale americano, giapponese, fine line."
+						}
+					]
+				}
+			]
+		},
+		"worksSection": {
+			"title": "I miei lavori",
+			"images": [
+				{
+					"id": 1,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 1"
+				},
+				{
+					"id": 2,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 2"
+				},
+				{
+					"id": 3,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 3"
+				},
+				{
+					"id": 4,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 4"
+				},
+				{
+					"id": 5,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 5"
+				},
+				{
+					"id": 6,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 6"
+				},
+				{
+					"id": 7,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 7"
+				},
+				{
+					"id": 8,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 8"
+				},
+				{
+					"id": 9,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 9"
+				},
+				{
+					"id": 10,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Tattoo by Tobia Baser",
+					"title": "Testo che descrive il tatuaggio 10"
+				}
+			]
+		},
+		"sketchesSection": {
+			"title": "Sketches",
+			"images": [
+				{
+					"id": 1,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 1"
+				},
+				{
+					"id": 2,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 2"
+				},
+				{
+					"id": 3,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 3"
+				},
+				{
+					"id": 4,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 4"
+				},
+				{
+					"id": 5,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 5"
+				},
+				{
+					"id": 6,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 6"
+				},
+				{
+					"id": 7,
+					"url": "",
+					"height": "700",
+					"width": "525",
+					"alt": "Draw by Tobia Baser",
+					"title": "Testo che descrive il disegno 7"
+				}
+			]
+		},
+		"piercingSection": {
+			"title": "Piercing",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+				"alt": "",
+				"height": "500",
+				"width": "1440",
+				"title": ""
+			},
+			"description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
+			"link": {
+				"href": "/piercing",
+				"alt": "Scopri i nostri servizi",
+				"text": "Scopri i nostri servizi"
+			}
+		},
+		"contactSection": {
+			"title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
+			"image": null,
+			"description": "",
+			"link": {
+				"href": "/contatti",
+				"alt": "Contattaci per saperne di più",
+				"text": "Contattaci per saperne di più"
+			}
+		}
+	}
+}
