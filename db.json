@@ -56,7 +56,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 1"
+					"title": ""
 				},
 				{
 					"id": 2,
@@ -64,7 +64,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 2"
+					"title": ""
 				},
 				{
 					"id": 3,
@@ -72,7 +72,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 3"
+					"title": ""
 				},
 				{
 					"id": 4,
@@ -80,7 +80,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 4"
+					"title": ""
 				},
 				{
 					"id": 5,
@@ -88,7 +88,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 5"
+					"title": ""
 				},
 				{
 					"id": 6,
@@ -96,7 +96,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 6"
+					"title": ""
 				},
 				{
 					"id": 7,
@@ -104,7 +104,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 7"
+					"title": ""
 				},
 				{
 					"id": 8,
@@ -112,7 +112,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Tattoo by Tobia Baser",
-					"title": "Testo che descrive il tatuaggio 8"
+					"title": ""
 				}
 			]
 		},
@@ -125,7 +125,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 1"
+					"title": ""
 				},
 				{
 					"id": 2,
@@ -133,7 +133,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 2"
+					"title": ""
 				},
 				{
 					"id": 3,
@@ -141,7 +141,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 3"
+					"title": ""
 				},
 				{
 					"id": 4,
@@ -149,7 +149,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 4"
+					"title": ""
 				},
 				{
 					"id": 5,
@@ -157,7 +157,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 5"
+					"title": ""
 				},
 				{
 					"id": 6,
@@ -165,7 +165,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 6"
+					"title": ""
 				},
 				{
 					"id": 7,
@@ -173,7 +173,7 @@
 					"height": "700",
 					"width": "525",
 					"alt": "Draw by Tobia Baser",
-					"title": "Testo che descrive il disegno 7"
+					"title": ""
 				}
 			]
 		},
